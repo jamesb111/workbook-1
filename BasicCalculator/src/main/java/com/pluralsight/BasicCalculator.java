@@ -28,11 +28,11 @@ public class BasicCalculator {
                 break;
             case '/':
                 if(num1 == 0 || num2 == 0) {
-                    System.out.println("Error cannot divide by zero");
+                    System.out.println("Error cannot divide by zero duhhhhh");
                 }
                 result = num1 / num2;
             default:
-                System.out.println("You broke something bro!!");
+                System.out.println();
         }
 
 

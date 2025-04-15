@@ -17,7 +17,7 @@ public class PayrollCalculator {
         float result = hoursWorked * payRate;
 
         System.out.printf("The good man %s made %.2f last week.", name, result);
-        
+
 
     }
 }
